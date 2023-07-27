@@ -1,0 +1,19 @@
+.animeLeft {
+  opacity: 0;
+  transform: translateX(-20px);
+  animation: animation .3s forwards;
+}
+
+@keyframes animation {
+  to {
+    opacity: initial;
+    transform: initial;
+  }
+}
+
+.geral {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

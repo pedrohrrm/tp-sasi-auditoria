@@ -1,0 +1,47 @@
+.headerAdmin {
+  height: 160px;
+  background-color: var(--secundary);
+  margin-bottom: 88px;
+}
+
+.headerAdmin div {
+  max-width: var(--maxw);
+  height: inherit;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.headerAdmin div a {
+  transition: transform .3s ease;
+}
+
+.headerAdmin div a:hover {
+  transform: scale(1.05);
+}
+
+.headerAdmin div>a img {
+  width: 217px;
+}
+
+.headerAdmin div>a:last-child img {
+  width: 51px;
+}
+
+.headerAdmin div>p {
+  font-weight: 900;
+  font-size: 2rem;
+  color: var(--bg);
+}
+
+@media (max-width: 950px) {
+  .headerAdmin div>a img {
+    width: 157px;
+  }
+
+  .headerAdmin div>p {
+    font-size: 1rem;
+    text-align: center;
+  }
+}

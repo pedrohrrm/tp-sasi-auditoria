@@ -1,0 +1,29 @@
+.popUp {
+  position: absolute;
+  min-height: 300px;
+  width: 500px;
+  border: 3px solid rgba(73, 153, 158, .4);
+  top: 0;
+  background: #f7f6dc;
+  z-index: 10;
+  padding: 1.5rem;
+  border-radius: 20px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034), 0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06), 0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086), 0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+.button {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  cursor: pointer;
+  border: none;
+  background: none;
+  transform: rotate(45deg);
+  opacity: .4;
+  transition: opacity .2 ease;
+}
+
+.button:hover {
+  transform: rotate(45deg) scale(1.1);
+  opacity: 1;
+}

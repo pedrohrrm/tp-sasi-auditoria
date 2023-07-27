@@ -1,0 +1,402 @@
+[
+  {
+    "idAdocao": 1,
+    "dataAdocao": "2023-05-18",
+    "idAnimal": 1,
+    "nomeAnimal": "Cormorant, large",
+    "cpfAdotante": 87015181034,
+    "nomeAdotante": "Angie Sly"
+  },
+  {
+    "idAdocao": 2,
+    "dataAdocao": "2023-05-05",
+    "idAnimal": 2,
+    "nomeAnimal": "Dassie",
+    "cpfAdotante": 29380464820,
+    "nomeAdotante": "Pauli Thorndale"
+  },
+  {
+    "idAdocao": 3,
+    "dataAdocao": "2022-12-25",
+    "idAnimal": 3,
+    "nomeAnimal": "Bennett's wallaby",
+    "cpfAdotante": 37527275749,
+    "nomeAdotante": "Jaymie Wendover"
+  },
+  {
+    "idAdocao": 4,
+    "dataAdocao": "2022-12-08",
+    "idAnimal": 4,
+    "nomeAnimal": "Common mynah",
+    "cpfAdotante": 71888538370,
+    "nomeAdotante": "Lanie Leahair"
+  },
+  {
+    "idAdocao": 5,
+    "dataAdocao": "2022-09-12",
+    "idAnimal": 5,
+    "nomeAnimal": "Seal, harbor",
+    "cpfAdotante": 54379468528,
+    "nomeAdotante": "Nady Everett"
+  },
+  {
+    "idAdocao": 6,
+    "dataAdocao": "2022-09-11",
+    "idAnimal": 6,
+    "nomeAnimal": "Sarus crane",
+    "cpfAdotante": 81667846139,
+    "nomeAdotante": "Claresta Drewes"
+  },
+  {
+    "idAdocao": 7,
+    "dataAdocao": "2023-07-14",
+    "idAnimal": 7,
+    "nomeAnimal": "Turtle, long-necked",
+    "cpfAdotante": 33757192796,
+    "nomeAdotante": "Graig Dreus"
+  },
+  {
+    "idAdocao": 8,
+    "dataAdocao": "2023-05-24",
+    "idAnimal": 8,
+    "nomeAnimal": "Black curlew",
+    "cpfAdotante": 36532296380,
+    "nomeAdotante": "Hamilton De Beauchamp"
+  },
+  {
+    "idAdocao": 9,
+    "dataAdocao": "2022-07-25",
+    "idAnimal": 9,
+    "nomeAnimal": "Albatross, galapagos",
+    "cpfAdotante": 24209035842,
+    "nomeAdotante": "Charmane McBrearty"
+  },
+  {
+    "idAdocao": 10,
+    "dataAdocao": "2023-07-04",
+    "idAnimal": 10,
+    "nomeAnimal": "Red-billed buffalo weaver",
+    "cpfAdotante": 38032872662,
+    "nomeAdotante": "Belle Vondrach"
+  },
+  {
+    "idAdocao": 11,
+    "dataAdocao": "2023-04-16",
+    "idAnimal": 11,
+    "nomeAnimal": "Caracara, yellow-headed",
+    "cpfAdotante": 27027419551,
+    "nomeAdotante": "Gregor Tropman"
+  },
+  {
+    "idAdocao": 12,
+    "dataAdocao": "2023-03-06",
+    "idAnimal": 12,
+    "nomeAnimal": "Bobcat",
+    "cpfAdotante": 65478863660,
+    "nomeAdotante": "Evyn Jorger"
+  },
+  {
+    "idAdocao": 13,
+    "dataAdocao": "2023-03-05",
+    "idAnimal": 13,
+    "nomeAnimal": "Gray heron",
+    "cpfAdotante": 80375390212,
+    "nomeAdotante": "Ive Mossop"
+  },
+  {
+    "idAdocao": 14,
+    "dataAdocao": "2023-03-22",
+    "idAnimal": 14,
+    "nomeAnimal": "Elephant, asian",
+    "cpfAdotante": 39975473012,
+    "nomeAdotante": "Melly Bartholat"
+  },
+  {
+    "idAdocao": 15,
+    "dataAdocao": "2023-05-09",
+    "idAnimal": 15,
+    "nomeAnimal": "Ox, musk",
+    "cpfAdotante": 99607221780,
+    "nomeAdotante": "Cassey Groveham"
+  },
+  {
+    "idAdocao": 16,
+    "dataAdocao": "2023-06-27",
+    "idAnimal": 16,
+    "nomeAnimal": "Squirrel, smith's bush",
+    "cpfAdotante": 66333603265,
+    "nomeAdotante": "Hedwiga Nockalls"
+  },
+  {
+    "idAdocao": 17,
+    "dataAdocao": "2022-10-31",
+    "idAnimal": 17,
+    "nomeAnimal": "African darter",
+    "cpfAdotante": 57969893928,
+    "nomeAdotante": "Sheila Curtain"
+  },
+  {
+    "idAdocao": 18,
+    "dataAdocao": "2022-11-11",
+    "idAnimal": 18,
+    "nomeAnimal": "Lizard, collared",
+    "cpfAdotante": 16498038831,
+    "nomeAdotante": "Sauncho Bartolomeo"
+  },
+  {
+    "idAdocao": 19,
+    "dataAdocao": "2023-06-24",
+    "idAnimal": 19,
+    "nomeAnimal": "Dove, emerald-spotted wood",
+    "cpfAdotante": 39016905135,
+    "nomeAdotante": "Kelsy Giacobelli"
+  },
+  {
+    "idAdocao": 20,
+    "dataAdocao": "2023-03-06",
+    "idAnimal": 20,
+    "nomeAnimal": "Richardson's ground squirrel",
+    "cpfAdotante": 19292980980,
+    "nomeAdotante": "Jareb Seatter"
+  },
+  {
+    "idAdocao": 21,
+    "dataAdocao": "2022-10-11",
+    "idAnimal": 21,
+    "nomeAnimal": "Armadillo, common long-nosed",
+    "cpfAdotante": 78244488131,
+    "nomeAdotante": "Diego Philippon"
+  },
+  {
+    "idAdocao": 22,
+    "dataAdocao": "2023-02-06",
+    "idAnimal": 22,
+    "nomeAnimal": "Platypus",
+    "cpfAdotante": 54533652089,
+    "nomeAdotante": "Koral Deluze"
+  },
+  {
+    "idAdocao": 23,
+    "dataAdocao": "2022-10-16",
+    "idAnimal": 23,
+    "nomeAnimal": "Deer, black-tailed",
+    "cpfAdotante": 66916641619,
+    "nomeAdotante": "Vernice Tyne"
+  },
+  {
+    "idAdocao": 24,
+    "dataAdocao": "2022-08-14",
+    "idAnimal": 24,
+    "nomeAnimal": "Brown hyena",
+    "cpfAdotante": 96972767486,
+    "nomeAdotante": "Rinaldo Padfield"
+  },
+  {
+    "idAdocao": 25,
+    "dataAdocao": "2022-10-03",
+    "idAnimal": 25,
+    "nomeAnimal": "American badger",
+    "cpfAdotante": 79925253518,
+    "nomeAdotante": "Wilbert Drepp"
+  },
+  {
+    "idAdocao": 26,
+    "dataAdocao": "2023-02-03",
+    "idAnimal": 26,
+    "nomeAnimal": "Pigeon, feral rock",
+    "cpfAdotante": 36704560305,
+    "nomeAdotante": "Lou Botterman"
+  },
+  {
+    "idAdocao": 27,
+    "dataAdocao": "2023-04-28",
+    "idAnimal": 27,
+    "nomeAnimal": "Paradoxure",
+    "cpfAdotante": 58869984900,
+    "nomeAdotante": "Had Border"
+  },
+  {
+    "idAdocao": 28,
+    "dataAdocao": "2023-06-03",
+    "idAnimal": 28,
+    "nomeAnimal": "Waxbill, black-cheeked",
+    "cpfAdotante": 73568126801,
+    "nomeAdotante": "Rolland Douse"
+  },
+  {
+    "idAdocao": 29,
+    "dataAdocao": "2023-04-02",
+    "idAnimal": 29,
+    "nomeAnimal": "Crane, brolga",
+    "cpfAdotante": 24681522570,
+    "nomeAdotante": "Kevyn Kivlin"
+  },
+  {
+    "idAdocao": 30,
+    "dataAdocao": "2023-03-05",
+    "idAnimal": 30,
+    "nomeAnimal": "Pigeon, feral rock",
+    "cpfAdotante": 87656312395,
+    "nomeAdotante": "Kit Angier"
+  },
+  {
+    "idAdocao": 31,
+    "dataAdocao": "2023-04-13",
+    "idAnimal": 31,
+    "nomeAnimal": "Weaver, red-billed buffalo",
+    "cpfAdotante": 25709519455,
+    "nomeAdotante": "Nikolia McCracken"
+  },
+  {
+    "idAdocao": 32,
+    "dataAdocao": "2022-08-22",
+    "idAnimal": 32,
+    "nomeAnimal": "Red kangaroo",
+    "cpfAdotante": 54668619937,
+    "nomeAdotante": "Luce Burchett"
+  },
+  {
+    "idAdocao": 33,
+    "dataAdocao": "2023-02-18",
+    "idAnimal": 33,
+    "nomeAnimal": "Short-nosed bandicoot",
+    "cpfAdotante": 29160336285,
+    "nomeAdotante": "Balduin Allanson"
+  },
+  {
+    "idAdocao": 34,
+    "dataAdocao": "2023-02-27",
+    "idAnimal": 34,
+    "nomeAnimal": "Caiman, spectacled",
+    "cpfAdotante": 51131118669,
+    "nomeAdotante": "Celesta Hodcroft"
+  },
+  {
+    "idAdocao": 35,
+    "dataAdocao": "2023-05-07",
+    "idAnimal": 35,
+    "nomeAnimal": "Lark, horned",
+    "cpfAdotante": 58909047247,
+    "nomeAdotante": "Jeanelle Jacquemy"
+  },
+  {
+    "idAdocao": 36,
+    "dataAdocao": "2023-04-28",
+    "idAnimal": 36,
+    "nomeAnimal": "Dama wallaby",
+    "cpfAdotante": 90177500749,
+    "nomeAdotante": "Hubey Billam"
+  },
+  {
+    "idAdocao": 37,
+    "dataAdocao": "2023-06-29",
+    "idAnimal": 37,
+    "nomeAnimal": "Eagle owl (unidentified)",
+    "cpfAdotante": 19126484694,
+    "nomeAdotante": "Thomasine Folomkin"
+  },
+  {
+    "idAdocao": 38,
+    "dataAdocao": "2022-11-09",
+    "idAnimal": 38,
+    "nomeAnimal": "Gaur",
+    "cpfAdotante": 14765212924,
+    "nomeAdotante": "Manolo Vernazza"
+  },
+  {
+    "idAdocao": 39,
+    "dataAdocao": "2022-08-12",
+    "idAnimal": 39,
+    "nomeAnimal": "Mongoose, eastern dwarf",
+    "cpfAdotante": 65414434180,
+    "nomeAdotante": "Joline Izatson"
+  },
+  {
+    "idAdocao": 40,
+    "dataAdocao": "2022-07-17",
+    "idAnimal": 40,
+    "nomeAnimal": "Waxbill, violet-eared",
+    "cpfAdotante": 18403166230,
+    "nomeAdotante": "Madge Blucher"
+  },
+  {
+    "idAdocao": 41,
+    "dataAdocao": "2022-09-09",
+    "idAnimal": 41,
+    "nomeAnimal": "Lion, south american sea",
+    "cpfAdotante": 60945599237,
+    "nomeAdotante": "Belinda Bridgstock"
+  },
+  {
+    "idAdocao": 42,
+    "dataAdocao": "2022-07-22",
+    "idAnimal": 42,
+    "nomeAnimal": "Eastern indigo snake",
+    "cpfAdotante": 26542865942,
+    "nomeAdotante": "Angelina Leaton"
+  },
+  {
+    "idAdocao": 43,
+    "dataAdocao": "2023-01-25",
+    "idAnimal": 43,
+    "nomeAnimal": "Blue-tongued lizard",
+    "cpfAdotante": 18303871131,
+    "nomeAdotante": "Tess Ianno"
+  },
+  {
+    "idAdocao": 44,
+    "dataAdocao": "2022-11-08",
+    "idAnimal": 44,
+    "nomeAnimal": "Marshbird, brown and yellow",
+    "cpfAdotante": 46442204082,
+    "nomeAdotante": "Murdock Lyal"
+  },
+  {
+    "idAdocao": 45,
+    "dataAdocao": "2022-12-27",
+    "idAnimal": 45,
+    "nomeAnimal": "Racer, blue",
+    "cpfAdotante": 81122014858,
+    "nomeAdotante": "Bunnie Seemmonds"
+  },
+  {
+    "idAdocao": 46,
+    "dataAdocao": "2022-09-09",
+    "idAnimal": 46,
+    "nomeAnimal": "White-cheeked pintail",
+    "cpfAdotante": 89437794575,
+    "nomeAdotante": "Stormy Rojel"
+  },
+  {
+    "idAdocao": 47,
+    "dataAdocao": "2023-05-31",
+    "idAnimal": 47,
+    "nomeAnimal": "Arctic tern",
+    "cpfAdotante": 90884628941,
+    "nomeAdotante": "Matthaeus Burth"
+  },
+  {
+    "idAdocao": 48,
+    "dataAdocao": "2023-01-02",
+    "idAnimal": 48,
+    "nomeAnimal": "Arctic ground squirrel",
+    "cpfAdotante": 15723928088,
+    "nomeAdotante": "Errol Cuniam"
+  },
+  {
+    "idAdocao": 49,
+    "dataAdocao": "2022-12-01",
+    "idAnimal": 49,
+    "nomeAnimal": "Violet-eared waxbill",
+    "cpfAdotante": 10976019224,
+    "nomeAdotante": "Saunders Elcomb"
+  },
+  {
+    "idAdocao": 50,
+    "dataAdocao": "2022-10-21",
+    "idAnimal": 50,
+    "nomeAnimal": "Eagle, bald",
+    "cpfAdotante": 40300537039,
+    "nomeAdotante": "Maurene Di Francesco"
+  }
+]
