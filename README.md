@@ -13,12 +13,7 @@
 
 <p>Esses dados revelam a grande importância na atuação de ONGs de cuidados de animais pelo país e, possivelmente, pelo mundo. Todavia, muitas vezes essas organizações estão limitadas por seus recursos financeiros e de mão de obra, o que pode levá-las ao uso de processos pouco eficientes. Esse é o caso da ONG fictícia “Casa 4 Patas” que, até então, realizava todo o controle dos animais que já passaram ou ainda estão sob seus cuidados, assim como dos processos de adoção, a partir de registros físicos em papel. Esses registros, muitas vezes, se perdem, o que dificulta o acompanhamento dos animais e de seus novos tutores. </p>
 
-<p align="center">
 
-  <img src="./Assets_readme/matriz-csd.png"> <br>
-  Matriz CSD para o problema mencionado
-
-</p>
 
 ## A solução
 <p>Dado o contexto da ONG fictícia "Casa 4 Patas", o sistema foi pensado de forma a permitir que a ONG possuísse um meio de gerir seus registros de forma mais fácil, rápida e organizada. Sendo uma ONG de pequeno a médio porte, bastava apenas que o sistema permitisse o cadastro dos animais sob seu cuidado, assim como dos adotantes e das adoções que ocorrem ao longo do tempo. Assim, construímos uma aplicação Web que contém os menus referentes às entidades que devem ser manipuladas (animal, adotante e adoção) através de uma interface simples e intuitiva. Para isso, usamos uma série de recursos que listamos abaixo:
@@ -32,12 +27,7 @@
 
 </p>
 
-<p align="center">
 
-  <img src="./Assets_readme/bd_structure.png"> <br>
-  Estrutura do banco de dados
-
-</p>
 
 <h2>INSTALAÇÃO</h2>
 
