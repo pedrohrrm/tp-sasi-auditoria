@@ -1,7 +1,4 @@
-# Casa Quatro Patas
-
-## O desafio
-<p>Este projeto surgiu, inicialmente, como um desafio para uma vaga de estágio. Posteriormente, tivemos a oportunidade de desenvolvê-lo como um trabalho em conjunto de algumas disciplinas do curso de Sistemas de Informação pela UFVJM. Dito isso, a ideia central foi a construção de uma aplicação web que pudesse se conectar a um banco de dados e fazer operações simples sobre ele, como chamada de procedures, uso de pesquisas aninhadas e as operações básicas de manipulação.</p>
+# Cãopanheiro
 
 
 ## O contexto
@@ -11,12 +8,12 @@
 
 <p>Ao mesmo tempo, a Comissão de Animais de Companhia (COMAC) do Sindicato Nacional da Indústria de Produtos para a Saúde Animal (Sindan), através do levantamento <a href="https://sindan.org.br/release/pesquisa-radar-pet-brasil-conta-com-a-segunda-maior-populacao-pet-do-mundo"> Radar Pet 2020 </a>, revela que mais de 37 milhões de casas no Brasil contam com algum pet, sendo que a grande maioria chegou aos cuidados de seus tutores através de processos de adoção.</p>
 
-<p>Esses dados revelam a grande importância na atuação de ONGs de cuidados de animais pelo país e, possivelmente, pelo mundo. Todavia, muitas vezes essas organizações estão limitadas por seus recursos financeiros e de mão de obra, o que pode levá-las ao uso de processos pouco eficientes. Esse é o caso da ONG fictícia “Casa 4 Patas” que, até então, realizava todo o controle dos animais que já passaram ou ainda estão sob seus cuidados, assim como dos processos de adoção, a partir de registros físicos em papel. Esses registros, muitas vezes, se perdem, o que dificulta o acompanhamento dos animais e de seus novos tutores. </p>
+<p>Esses dados revelam a grande importância na atuação de ONGs de cuidados de animais pelo país e, possivelmente, pelo mundo. Todavia, muitas vezes essas organizações estão limitadas por seus recursos financeiros e de mão de obra, o que pode levá-las ao uso de processos pouco eficientes. Esse é o caso da ONG fictícia “Cãopanheiro” que, até então, realizava todo o controle dos animais que já passaram ou ainda estão sob seus cuidados, assim como dos processos de adoção, a partir de registros físicos em papel. Esses registros, muitas vezes, se perdem, o que dificulta o acompanhamento dos animais e de seus novos tutores. </p>
 
 
 
 ## A solução
-<p>Dado o contexto da ONG fictícia "Casa 4 Patas", o sistema foi pensado de forma a permitir que a ONG possuísse um meio de gerir seus registros de forma mais fácil, rápida e organizada. Sendo uma ONG de pequeno a médio porte, bastava apenas que o sistema permitisse o cadastro dos animais sob seu cuidado, assim como dos adotantes e das adoções que ocorrem ao longo do tempo. Assim, construímos uma aplicação Web que contém os menus referentes às entidades que devem ser manipuladas (animal, adotante e adoção) através de uma interface simples e intuitiva. Para isso, usamos uma série de recursos que listamos abaixo:
+<p>Dado o contexto da ONG fictícia "Cãopanheiro", o sistema foi pensado de forma a permitir que a ONG possuísse um meio de gerir seus registros de forma mais fácil, rápida e organizada. Sendo uma ONG de pequeno a médio porte, bastava apenas que o sistema permitisse o cadastro dos animais sob seu cuidado, assim como dos adotantes e das adoções que ocorrem ao longo do tempo. Assim, construímos uma aplicação Web que contém os menus referentes às entidades que devem ser manipuladas (animal, adotante e adoção) através de uma interface simples e intuitiva. Para isso, usamos uma série de recursos que listamos abaixo:
 
 <br>
 <br>
@@ -124,10 +121,3 @@ npm run dev
   ```
     1234
   ```
-
-## Desenvolvedores
-
-- [Henrique Machado](https://www.linkedin.com/in/henrimachado/)
-- [Iago Fernandes](https://www.linkedin.com/in/iago-fernandes-083309207/) 
-- [Lucas Alexsander](https://www.linkedin.com/in/lucas-alexsander-barbosa-cruz-481bbb21a/) 
-- [Mariano Carlos Silva](https://www.linkedin.com/in/mariano-silva-418121202/) 
