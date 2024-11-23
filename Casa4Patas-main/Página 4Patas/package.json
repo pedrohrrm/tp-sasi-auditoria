@@ -4,15 +4,21 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "start": "concurrently \"npm run start:http\" \"npm run start:https\"",
+    "start:http": "vite --port 5000 --config vite.config.http.js",
+    "start:https": "vite --port 5001 --config vite.config.https.js",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "dev": "vite"
   },
   "dependencies": {
+    "concurrently": "^9.0.1",
+    "express": "^4.21.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.14.1"
+    "react-router-dom": "^6.14.1",
+    "vite-plugin-https": "^1.0.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.14",

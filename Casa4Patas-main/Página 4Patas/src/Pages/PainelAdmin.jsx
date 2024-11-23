@@ -23,10 +23,19 @@ const PainelAdmin = () => {
             <CardsPainle title="Adoções" img={processo} />
           </Link>
         </div>
+        
       </div>
+      
       <Outlet />
-    </div>
+      <br /><br /><br />
+      <center>
+      <a href="http://localhost:5000/Psi" target="_self" rel="noopener noreferrer">
+        Conheça nossa política de privacidade
+      </a>
+      </center>
+    </div>  
   );
 };
+
 
 export default PainelAdmin;

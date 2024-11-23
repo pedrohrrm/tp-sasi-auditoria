@@ -10,7 +10,7 @@ import { Link } from 'react-router-dom';
 
 const Adotante = () => {
   const [data, setData] = React.useState();
-  const url = 'http://localhost:3000/adotantes';
+  const url = 'https://localhost:3000/adotantes';
   const [filtros, setFitros] = React.useState([]);
   // Como vai aparecer no header
   const [thead, setThead] = React.useState([

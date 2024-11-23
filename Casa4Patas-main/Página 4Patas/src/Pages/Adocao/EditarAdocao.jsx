@@ -20,7 +20,7 @@ const EditarAdocao = () => {
   const [load, setLoad] = React.useState(true);
   const params = useParams();
 
-  const url = 'http://localhost:3000/adocoes/';
+  const url = 'https://localhost:3000/adocoes/';
 
   React.useEffect(() => {
     if (cpfAdotantes) {
@@ -29,14 +29,14 @@ const EditarAdocao = () => {
   }, [cpfAdotantes]);
 
   React.useEffect(() => {
-    fetch('http://localhost:3000/animais')
+    fetch('https://localhost:3000/animais')
       .then((response) => response.json())
       .then((json) => {
         const ids = json.map((item) => item.id);
         setIdAnimais(ids);
       })
       .then(() => {
-        fetch('http://localhost:3000/adotantes')
+        fetch('https://localhost:3000/adotantes')
           .then((response) => response.json())
           .then((json) => {
             const ids = json.map((item) => item.cpf);

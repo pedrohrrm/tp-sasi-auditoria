@@ -37,7 +37,7 @@ const EditarPet = () => {
 
   // Pegar os dados com base no id
 
-  const url = `http://localhost:3000/animais/${params.id}`;
+  const url = `https://localhost:3000/animais/${params.id}`;
 
   const handleNext = (event) => {
     event.preventDefault();
@@ -63,7 +63,7 @@ const EditarPet = () => {
         },
         body: JSON.stringify(dataAnimal),
       }).then(() => {
-        fetch(`http://localhost:3000/resgates/${params.id}`, {
+        fetch(`https://localhost:3000/resgates/${params.id}`, {
           method: 'PATCH',
           headers: {
             'Content-Type': 'application/json',

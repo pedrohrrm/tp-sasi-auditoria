@@ -24,14 +24,14 @@ const AdicionarAdocao = () => {
   }, [cpfAdotantes]);
 
   React.useEffect(() => {
-    fetch('http://localhost:3000/animais')
+    fetch('https://localhost:3000/animais')
       .then((response) => response.json())
       .then((json) => {
         const ids = json.map((item) => item.id);
         setIdAnimais(ids);
       })
       .then(() => {
-        fetch('http://localhost:3000/adotantes')
+        fetch('https://localhost:3000/adotantes')
           .then((response) => response.json())
           .then((json) => {
             const ids = json.map((item) => item.cpf);
@@ -49,7 +49,7 @@ const AdicionarAdocao = () => {
       dataAdocao,
     };
 
-    fetch('http://localhost:3000/adocoes/', {
+    fetch('https://localhost:3000/adocoes/', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

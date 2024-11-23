@@ -9,7 +9,7 @@ import { Link, Outlet } from 'react-router-dom';
 
 const Adocao = () => {
   const [data, setData] = React.useState();
-  const url = 'http://localhost:3000/adocoes';
+  const url = 'https://localhost:3000/adocoes';
   const [filtros, setFitros] = React.useState([]);
   // Como vai aparecer no header
   const [thead, setThead] = React.useState([

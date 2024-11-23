@@ -13,6 +13,7 @@ import AdicionarAdotante from './Pages/Adotante/AdicionarAdotante';
 import AdicionarAdocao from './Pages/Adocao/AdicionarAdocao';
 import EditarAdotante from './Pages/Adotante/EditarAdotante';
 import EditarAdocao from './Pages/Adocao/EditarAdocao';
+import Psi from './Pages/Psi/Psi';
 import './App.css';
 
 function App() {
@@ -21,6 +22,8 @@ function App() {
       <GlobalStorage>
         <BrowserRouter>
           <Routes>
+            {/* PSI */}
+            <Route path="Psi" element={<Psi />} />
             <Route path="/" element={<Login />} />
             <Route path="painelAdmin/*" element={<Header />}>
               <Route path="" element={<PainelAdmin />} />
@@ -39,6 +42,7 @@ function App() {
               <Route path="adocoes" element={<Adocao />} />
               <Route path="adocoes/adicionar" element={<AdicionarAdocao />} />
               <Route path="adocoes/editar/:id" element={<EditarAdocao />} />
+            
             </Route>
           </Routes>
         </BrowserRouter>

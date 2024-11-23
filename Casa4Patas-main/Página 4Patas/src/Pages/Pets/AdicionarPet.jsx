@@ -36,7 +36,7 @@ const AdicionarPet = () => {
         nResgate,
       };
 
-      fetch('http://localhost:3000/animais/', {
+      fetch('https://localhost:3000/animais/', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

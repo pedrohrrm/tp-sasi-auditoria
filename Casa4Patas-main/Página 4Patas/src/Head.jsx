@@ -7,7 +7,7 @@ const Head = ({ title }) => {
   const location = useLocation();
 
   React.useEffect(() => {
-    document.title = 'Casa 4Patas | ' + title;
+    document.title = 'Cãopanheiro | ' + title;
     global.setTitle(title);
   }, [title]);
 

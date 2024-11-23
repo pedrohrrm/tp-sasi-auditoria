@@ -1,6 +1,6 @@
 import React, { useContext } from 'react';
 import { Link, Outlet, useLocation, useNavigate } from 'react-router-dom';
-import logo from '../Midia/logo3.svg';
+import logo from '../Midia/logo.png';
 import sair from '../Midia/icons/exit.svg';
 import style from '../Styled Components/Header.module.css';
 import { GlobalContext } from './GlobalStorage';

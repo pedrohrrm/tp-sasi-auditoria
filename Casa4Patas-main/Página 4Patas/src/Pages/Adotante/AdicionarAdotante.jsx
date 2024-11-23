@@ -32,7 +32,7 @@ const AdicionarAdotante = () => {
       telefone,
     };
 
-    fetch('http://localhost:3000/adotantes/', {
+    fetch('https://localhost:3000/adotantes/', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

@@ -10,7 +10,7 @@ import { Link, Outlet } from 'react-router-dom';
 
 const Pets = () => {
   const [data, setData] = React.useState();
-  const url = 'http://localhost:3000/animais';
+  const url = 'https://localhost:3000/animais';
   const [filtros, setFitros] = React.useState([]);
   // Como vai aparecer no header
   const [thead, setThead] = React.useState([
